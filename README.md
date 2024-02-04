@@ -11,3 +11,7 @@ You will extract and share historical data from a web page using the BeautifulSo
 ### Extracting data using pandas
 
 ### Exercise
+
+
+last question
+amazon_data.iloc[-1]['open']
